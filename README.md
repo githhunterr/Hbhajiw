@@ -1,1 +1,1 @@
-<base href=google.com>
+<form><input type=button></form>
