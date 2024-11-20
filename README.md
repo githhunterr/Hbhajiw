@@ -1,1 +1,1 @@
-<form><input type=button></form>
+<img><input type=button></form>
